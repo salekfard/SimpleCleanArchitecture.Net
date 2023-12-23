@@ -23,5 +23,3 @@ To apply the migration and update your database, run:
 ```Update-Database -Project MyInsurance.Infrastructure```
 
 Your contributions and insights are highly valued. Kindly take a moment to explore the project, and I welcome you to provide your feedback or suggestions.
-
-Please feel free to adjust any technical details that may have been misunderstood or if there are specific formal language requirements for your project’s README.md that you want to be incorporated.
